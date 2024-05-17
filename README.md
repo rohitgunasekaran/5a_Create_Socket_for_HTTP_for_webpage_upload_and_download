@@ -1,4 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+### NAME:G.ROHIT
+### REGISTER NUMBER:212222240083
 
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
@@ -57,7 +59,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
-![image](https://github.com/AnkithaMopuri/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144979399/a3b6afb2-959a-447c-bb7e-0829b43a36f8)
+<img src="https://github.com/AnkithaMopuri/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144979399/a3b6afb2-959a-447c-bb7e-0829b43a36f8.type" width="900" height="500">
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
